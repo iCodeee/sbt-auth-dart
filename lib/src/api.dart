@@ -9,6 +9,7 @@ import 'package:web3dart/crypto.dart';
 
 /// Develop mode base url
 const DEVELOP_BASE_URL = 'https://test-api.safematrix.io/sbt-auth';
+// const DEVELOP_BASE_URL = 'http://192.168.110.37:9999';
 
 /// Production mode base url
 const PRODUCTION_BASE_URL = 'https://api.safematrix.io/sbt-auth';
